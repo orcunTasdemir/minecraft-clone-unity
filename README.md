@@ -1,2 +1,2 @@
 # minecraft-clone-unity
-![Alt text](/img_01.png "Multiple Chunks hollow-render")
+<img src="/img_01.png" alt="Alt text" title="Optional title">
