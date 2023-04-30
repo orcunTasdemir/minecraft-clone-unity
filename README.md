@@ -1,2 +1,2 @@
 # minecraft-clone-unity
-![My Image](img_01.png)
+![My Image](img_01.PNG)
